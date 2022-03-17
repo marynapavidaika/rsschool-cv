@@ -16,3 +16,28 @@ discord: Maryna (@marynapavidaika)
 GitHub: marynapavidaika
 
 ### About: 
+**3 positively things about me:**
+1. I know my limits when I do work. What I mean is that I can easily concentrate and change my side of view when, for example, I am stacked at any task.
+2. I love learning something new, and ofcourse it is important when you are working in sphere of it
+3. In my opinion, I am honest, always respectful and cautious, so I`d better ask than make a mistake.
+
+**3 negative things about me:**
+1. As any person I distract myself and procrastinate sometimes under tag of "learning"
+2. I may start to control my team if I will see that none of them are doing their job. I don`t like waste of oxygen and empty talks.
+3. I don`t have high self-esteem and I have anxiety of making mistakes. 
+
+### Education: 
+#### Bacalavr: 
+**Academy of Public Administration under the aegis President of the Republic of Belarus**,
+Information Resources of Management, 
+Manager-economist of information systems
+2015-2019
+#### Courses:
+**FreeCodeCamp:**
+1. Responsive Web Design (completed)
+2. JavaScript Algorithms and Data Structures (in progress)
+**RS School:**
+1. Stage #1 (in progress)
+
+### Job Experiences:
+From 2017-2019 I worked as a Administrator of web-site. It was a small online-shop which is based on Bitrix. After 2020 I have left my job as I become a mom.
