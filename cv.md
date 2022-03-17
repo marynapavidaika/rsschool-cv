@@ -41,3 +41,17 @@ Manager-economist of information systems
 
 ### Job Experiences:
 From 2017-2019 I worked as a Administrator of web-site. It was a small online-shop which is based on Bitrix. After 2020 I have left my job as I become a mom.
+
+### Skills
+1. HTML5 + semantic tags
+2. CSS3, including FlexBox, CSS Grid
+3. JS Basic
+4. Adobe Photoshop
+5. Figma
+
+#### English
+**English B2 according to EPAM English test**
+My ultimate goal is to get a certificate from Cambridge (CAE).
+I am currently working with *Grammar and Vocabulary for Advanced* and *Oxford English for IT*
+
+***Date: 17/03/2022***
