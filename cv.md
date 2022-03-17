@@ -1,18 +1,22 @@
-# RS School
-
 ## Maryna Pavidaika
 ![This is my photo](/photo.jpg)
 ### Junior Front-end Developer
 24 y.o.
+
 Minsk, Belarus (*open to relocate*)
 
 ### Contacts:
 
-[e-mail:](mailto:marynapavidaika@protonmail.com)
-[e-mail:](mailto:marinayakovenko_98@mail.ru)
+[e-mail: protonmail.com](mailto:marynapavidaika@protonmail.com)
+
+[e-mail: mail.ru](mailto:marinayakovenko_98@mail.ru)
+
 [instagram](instagram.com/marina_ya98) 
+
 telegram or viber: +375293916287
+
 discord: Maryna (@marynapavidaika)
+
 GitHub: marynapavidaika
 
 ### About: 
@@ -29,17 +33,21 @@ GitHub: marynapavidaika
 ### Education: 
 #### Bacalavr: 
 **Academy of Public Administration under the aegis President of the Republic of Belarus**,
+
 Information Resources of Management, 
+
 Manager-economist of information systems
+
 2015-2019
 #### Courses:
 **FreeCodeCamp:**
 1. Responsive Web Design (completed)
 2. JavaScript Algorithms and Data Structures (in progress)
+
 **RS School:**
 1. Stage #1 (in progress)
 
-### Job Experiences:
+### Job Experience:
 From 2017-2019 I worked as a Administrator of web-site. It was a small online-shop which is based on Bitrix. After 2020 I have left my job as I become a mom.
 
 ### Skills
@@ -49,7 +57,7 @@ From 2017-2019 I worked as a Administrator of web-site. It was a small online-sh
 4. Adobe Photoshop
 5. Figma
 
-#### English
+### English
 **English B2 according to EPAM English test**
 My ultimate goal is to get a certificate from Cambridge (CAE).
 I am currently working with *Grammar and Vocabulary for Advanced* and *Oxford English for IT*
