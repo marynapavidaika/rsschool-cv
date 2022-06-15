@@ -1,5 +1,105 @@
-* {
-    margin: 0;
-    padding: 0;
-    background-color: bisque;
+/*main-color: #48cf6a
+hover-color: #449c5a
+background-color: #e1f5e6
+background-browser: white*/
+
+* {    
+    margin: 0 auto;
+}
+
+.container {
+    /*border: 1px solid black;*/
+    width: 50%;
+}
+
+header {
+    background-color: #6eafdb;
+}
+
+.main-name {
+    display: flex;
+    padding-top: 25px;
+    justify-content: center;
+}
+
+.name-job {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin-left: 15px;
+    margin-right: 0;
+
+    width: 330px;
+
+    text-transform: uppercase;
+}
+
+.name {
+    color: white;
+    font-size: 40px;
+}
+
+.job-name {
+    font-size: 20px;
+    color: #14232e;
+    padding-top: 10px;
+    margin-left: 0;
+}
+
+.photo {
+    border-radius: 100px;
+    margin-right: 40px;
+}
+
+.photo:hover {
+    border: 1px solid white;
+}
+
+.line {
+    box-sizing: border-box;
+    height: 1px;
+    width: 20%;
+    margin-left: 15px;
+    background-color: white;
+}
+
+.contacts {
+    display: flex;
+   /* border: 1px solid black; */
+   justify-content: space-evenly;
+}
+
+.contact-title {
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-top: 15px;
+    padding-left: 15px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.contacts-list {
+    display: flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    list-style: none;
+    justify-content: space-evenly;
+    width: 250px;
+    margin-right: 0;
+}
+
+.contacts-list-item {
+    margin-left: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #14232e;
+    font-size: 22px;
+}
+
+a:hover {
+    color: #d5e3f2;
 }
