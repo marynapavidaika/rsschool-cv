@@ -12,7 +12,7 @@ background-browser: white*/
     width: 50%;
 }
 
-header {
+header, footer {
     background-color: #6eafdb;
 }
 
@@ -38,6 +38,11 @@ header {
 .name {
     color: white;
     font-size: 40px;
+}
+
+.pronoun {
+    color: #638ba6;
+    margin-left: 0;
 }
 
 .job-name {
@@ -103,3 +108,109 @@ a {
 a:hover {
     color: #d5e3f2;
 }
+
+main {
+    background-color: white;
+    display: flex;
+}
+
+.column {
+    width: 45%;
+}
+
+.section-title {
+    color: #6eafdb;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
+.divider {
+    box-sizing: border-box;
+    background-color: #6eafdb;
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.short {
+    width: 1px;
+    height: 40px;
+}
+
+.long {
+    width: 1px;
+    height: 225px;
+}
+
+.med {
+    width: 1px;
+    height: 185px;
+}
+
+.location, .myself, .languages {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    padding-top: 15px;
+    margin-left: 0;
+}
+
+.location-text {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+
+.list-title, .lang-title {
+    font-size: 16px;
+    text-transform: lowercase;
+    color: #638ba6;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.lang-title:nth-child(1) {
+    margin-top: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.hobbies-list {
+    display: flex;
+    padding-left: 0;
+}
+
+.hobbies-list-item {
+    color: #14232e;
+    font-size: 22px;
+}
+
+.lang-container {
+    margin: 0;
+}
+
+.progress {
+    display: block;
+    position: relative;
+    width: 200px;
+    height: 11px;
+    background-color: #14232e;
+    border-radius: 15px;
+  }
+  .bar {
+    display: block;
+    height: 100%;
+    background-color: #638ba6;
+    border-radius: 15px;
+  }
+
+  .last-bar {
+      width: 66%;
+      margin-left: 0;
+  }
+
+  .lang-div {
+      margin-bottom: 15px;
+  }
