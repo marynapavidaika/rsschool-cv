@@ -1,5 +1,263 @@
-* {
-    margin: 0;
-    padding: 0;
-    background-color: bisque;
+/*main-color: #48cf6a
+hover-color: #449c5a
+background-color: #e1f5e6
+background-browser: white*/
+
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Tinos:ital,wght@0,400;0,700;1,400&display=swap');
+
+
+* {    
+    margin: 0 auto;
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Tinos', serif;
 }
+
+.container {
+    /*border: 1px solid black;*/
+    width: 50%;
+}
+
+header, footer {
+    background-color: #6eafdb;
+}
+
+.main-name {
+    display: flex;
+    padding-top: 25px;
+    justify-content: center;
+}
+
+.name-job {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin-left: 15px;
+    margin-right: 0;
+
+    width: 330px;
+
+    text-transform: uppercase;
+}
+
+.name {
+    color: white;
+    font-size: 40px;
+}
+
+.pronoun {
+    color: #638ba6;
+    margin-left: 0;
+}
+
+.job-name {
+    font-size: 20px;
+    color: #14232e;
+    padding-top: 10px;
+    margin-left: 0;
+}
+
+.photo {
+    border-radius: 100px;
+    margin-right: 40px;
+}
+
+.photo:hover {
+    border: 1px solid white;
+}
+
+.line {
+    box-sizing: border-box;
+    height: 1px;
+    width: 20%;
+    margin-left: 15px;
+    background-color: white;
+}
+
+.contacts {
+    display: flex;
+   /* border: 1px solid black; */
+   justify-content: space-evenly;
+}
+
+.contact-title {
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-top: 15px;
+    padding-left: 15px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.contacts-list {
+    display: flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    list-style: none;
+    justify-content: space-evenly;
+    width: 250px;
+    margin-right: 0;
+}
+
+.contacts-list-item {
+    margin-left: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #14232e;
+    font-size: 22px;
+}
+
+a:hover {
+    color: #d5e3f2;
+}
+
+main {
+    background-color: white;
+    display: flex;
+}
+
+.column {
+    width: 45%;
+}
+
+.section-title {
+    color: #6eafdb;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
+.divider {
+    box-sizing: border-box;
+    background-color: #6eafdb;
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.short {
+    width: 1px;
+    height: 40px;
+}
+
+.long {
+    width: 1px;
+    height: 225px;
+}
+
+.medium {
+    width: 1px;
+    height: 185px;
+}
+
+.medium_l {
+    width: 1px;
+    height: 110px;
+}
+
+.location, .myself, .languages, .main-ed, .courses, .projects {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    padding-top: 15px;
+    margin-left: 0;
+}
+
+.location-text {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+
+.list-title, .lang-title {
+    font-size: 16px;
+    text-transform: lowercase;
+    color: #638ba6;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.lang-title:nth-child(1) {
+    margin-top: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.hobbies-list {
+    display: flex;
+    padding-left: 0;
+}
+
+.hobbies-list-item {
+    color: #14232e;
+    font-size: 22px;
+}
+
+.lang-container, .projects-container {
+    margin: 0;
+}
+
+.progress {
+    display: block;
+    position: relative;
+    width: 200px;
+    height: 11px;
+    background-color: #14232e;
+    border-radius: 15px;
+  }
+  .bar {
+    display: block;
+    height: 100%;
+    background-color: #638ba6;
+    border-radius: 15px;
+  }
+
+  .last-bar {
+      width: 66%;
+      margin-left: 0;
+  }
+
+  .lang-div {
+      margin-bottom: 15px;
+  }
+
+  .courses-list {
+      padding-left: 0;
+  }
+
+  .skill-items {
+      display: flex;
+  }
+
+  .skill {
+      font-size: 50px;
+  }
+
+  .skills {
+    padding-top: 15px;
+    margin-left: 0;
+  }
+
+  .git-item {
+      font-size: 64px;
+  }
+
+  .date-title {
+      font-size: 32px;
+      text-transform: uppercase;
+  }
+
+  footer {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+  }
+
+  .container__footer {
+      padding-top: 15px;
+  }
