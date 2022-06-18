@@ -3,8 +3,13 @@ hover-color: #449c5a
 background-color: #e1f5e6
 background-browser: white*/
 
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Tinos:ital,wght@0,400;0,700;1,400&display=swap');
+
+
 * {    
     margin: 0 auto;
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Tinos', serif;
 }
 
 .container {
@@ -142,12 +147,17 @@ main {
     height: 225px;
 }
 
-.med {
+.medium {
     width: 1px;
     height: 185px;
 }
 
-.location, .myself, .languages {
+.medium_l {
+    width: 1px;
+    height: 110px;
+}
+
+.location, .myself, .languages, .main-ed, .courses, .projects {
     display: flex;
     justify-items: center;
     align-items: center;
@@ -187,7 +197,7 @@ ul {
     font-size: 22px;
 }
 
-.lang-container {
+.lang-container, .projects-container {
     margin: 0;
 }
 
@@ -213,4 +223,41 @@ ul {
 
   .lang-div {
       margin-bottom: 15px;
+  }
+
+  .courses-list {
+      padding-left: 0;
+  }
+
+  .skill-items {
+      display: flex;
+  }
+
+  .skill {
+      font-size: 50px;
+  }
+
+  .skills {
+    padding-top: 15px;
+    margin-left: 0;
+  }
+
+  .git-item {
+      font-size: 64px;
+  }
+
+  .date-title {
+      font-size: 32px;
+      text-transform: uppercase;
+  }
+
+  footer {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+  }
+
+  .container__footer {
+      padding-top: 15px;
   }
